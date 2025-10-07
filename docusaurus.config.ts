@@ -43,7 +43,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Wyliodrn/edge-ai-101/tree/main/",
+          editUrl: "https://github.com/Wyliodrin/edge-ai-101/edit/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
