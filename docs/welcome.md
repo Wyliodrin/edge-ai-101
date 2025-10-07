@@ -7,6 +7,6 @@ Welcome to the Privacy Preserving Edge AI Workshop
 
 ## Authors
 
-- Slides - Andrian Cosma
+- Slides - Adrian Cosma
 - [Face Authentication](./face_authentication) - Radu Chivereanu
 - [Chat With LLM](./chat_with_llm) - Andrei Neculae
