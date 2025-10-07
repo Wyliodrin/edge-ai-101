@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the individual component RE
 ## Support
 
 For issues and questions:
-- Check the [Troubleshooting](#troubleshooting) section
+<!--- Check the [Troubleshooting](#troubleshooting) section-->
 - Review component-specific READMEs in `app/` and `camera_server/`
 - Open an issue in the repository
 
