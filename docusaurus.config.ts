@@ -62,7 +62,7 @@ const config: Config = {
       title: "Edge AI 101",
       logo: {
         alt: "Privacy Preserving Edge AI 101",
-        src: "img/logo.svg",
+        src: "img/edge-ai-logo.png",
       },
       items: [
         {
