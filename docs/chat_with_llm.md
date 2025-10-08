@@ -10,6 +10,14 @@ The Chat with LLM workshop will guide you through four essential techniques used
 
 The application runs in the CLI and expects a user prompt. The user then selects one of the available techniques to interact with the LLM. The model will respond. The messages inside the conversation are stored in memory. The application will keep running until the user types "exit".
 
+## Slides
+
+<iframe src="/slides/2_llm.pdf" loading="lazy" width="700" height="400">
+    Not able to display the slides
+</iframe>
+
+<a href="/slides/2_llm.pdf" target="_blank">download the slides</a>.
+
 ## Quick Start
 
 ### Prerequisites

@@ -10,6 +10,14 @@ Face Authentication is a modular face authentication system consisting of three 
 2. **Camera Server** - A Python FastAPI server that provides camera streaming capabilities with support for multiple camera sources
 3. **Workshop** - Educational exercises for learning face recognition concepts and implementation techniques
 
+## Slides
+
+<iframe src="/slides/1_computer_vision.pdf" loading="lazy" width="700" height="400">
+    Not able to display the slides
+</iframe>
+
+<a href="/slides/1_computer_vision.pdf" target="_blank">download the slides</a>.
+
 ## Features
 
 - 🎯 **Real-time Face Authentication** - Fast face recognition using ConvNeXt models
